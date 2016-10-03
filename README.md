@@ -4,4 +4,4 @@ This repository has code for finetuning or directly using the resnet-152 model p
 
 This is based on an awesome notebook doing the same things for resnet-50: https://github.com/Lasagne/Recipes/blob/master/examples/resnet50/ImageNet%20Pretrained%20Network%20(ResNet-50).ipynb
 
-For licenses and credits please see the [notebook](resnet152-pre-trained-imagenet/ImageNet Pretrained Network (ResNet-152).ipynb) 
+For licenses and credits please see the [notebook](https://github.com/kundan2510/resnet152-pre-trained-imagenet/blob/master/ImageNet%20Pretrained%20Network%20(ResNet-152).ipynb) 
